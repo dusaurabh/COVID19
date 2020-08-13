@@ -10,3 +10,15 @@ This dataset contains database of chest X-ray images for COVID-19 positive cases
 In this project, I have used a ResNet-18 model and train it on a COVID-19 Radiography dataset. This dataset has nearly 3000 Chest X-Ray scans which are categorized in three classes - Normal, Viral Pneumonia and COVID-19. Our objective in this project is to create an image classification model that can predict Chest X-Ray scans that belong to one of the three classes with a reasonably high accuracy.
 
 Please note that this dataset, and the model that we train in the project, can not be used to diagnose COVID-19 or Viral Pneumonia. We are only using this data for educational purpose.
+
+Software,Tools and Frameworks Used:-
+1) Anaconda
+2) Python
+3) Jupyter Notebook
+4) PyTorch
+
+Hardware Requirements:-
+1) GPU:-  Please note that this dataset, and the model that we train in the project, can not be used to diagnose COVID-19 or Viral Pneumonia. We are only using this data for educational purpose.
+2) RAM :- Minimum of 4GB RAM is compulsory but 8GB RAM is recommended.
+3) Processor :- Minimum i3 Processor with 7th Generation is recommended.
+4) Operating System :- Windows 8 or more, MaxOS, Linux.
