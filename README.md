@@ -22,3 +22,6 @@ Hardware Requirements:-
 2) RAM :- Minimum of 4GB RAM is compulsory but 8GB RAM is recommended.
 3) Processor :- Minimum i3 Processor with 7th Generation is recommended.
 4) Operating System :- Windows 8 or more, MaxOS, Linux.
+
+Some Images and Visualization from Dataset looks like:-
+![](output/sentiment_pos.PNG)
