@@ -24,4 +24,10 @@ Hardware Requirements:-
 4) Operating System :- Windows 8 or more, MaxOS, Linux.
 
 Some Images and Visualization from Dataset looks like:-
-![](output/sentiment_pos.PNG)
+![](outputs/output_1.PNG)
+![](outputs/output_2.PNG)
+
+The accuracy i got in this projects was 97.78%. I have set the program code in such a way that it gets stopped when the accuracy value goes above 95%. The pretrained architecture used for this project was ResNet18 Model. I have removed the last layers of resnet18 model to set our custom layer with 3 output layer.
+The loss used for this model was CrossEntropyLoss with Adam as an optimizer
+![](outputs/output_7.PNG)
+![](outputs/output_3.PNG)
