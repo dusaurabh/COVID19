@@ -31,3 +31,8 @@ The accuracy i got in this projects was 97.78%. I have set the program code in s
 The loss used for this model was CrossEntropyLoss with Adam as an optimizer
 ![](outputs/output_7.PNG)
 ![](outputs/output_3.PNG)
+
+Some of the predictions which we have got is:-
+![](outputs/output_4.PNG)
+![](outputs/output_5.PNG)
+![](outputs/output_6.PNG)
